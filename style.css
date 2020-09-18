@@ -1,0 +1,23 @@
+body {
+    /* background-color: #ccffcc; */
+    background-color: #33ccff;
+}
+
+.form-group {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#header-text {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#add-button:hover {
+    background-color: green;
+    opacity: 0.9;
+}
+
+#clear-films:hover {
+    background-color: black;
+}
